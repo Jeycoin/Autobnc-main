@@ -21,8 +21,8 @@ python-binance，autogen，ta-lib，openai等
 
 ## Agents
 
-| name             | 作用                                                                |
-| ----------------- | |------------------------------------------------------------------ |
+|      name     | function |
+| ------------- | ------------- |
 | user_proxy |用户代理，模拟用户沟通达成最终目标。|
 | manager | 主持小组讨论，在每轮中选择speaker。直到讨论结果符合user_proxy要求结束小组对话|
 | clarifier_agent | 检查用户输入是否符合当下语境，如不符合会要求用户重新给出prompt。|
