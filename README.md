@@ -58,7 +58,7 @@ python pktest.py
 ```
 
 ## 项目目录
-D:.
+```
 │  agent_tool.py
 │  AutoBnc.py
 │  autobnc_type.py
@@ -83,6 +83,7 @@ D:.
         color.py
         constants.py
         __init__.py
+```
 ## 文档
 具体的项目文档可以参考：[文档](https://123)
 
