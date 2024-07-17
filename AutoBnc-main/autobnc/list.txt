@@ -1,0 +1,52 @@
+卷 Study 的文件夹 PATH 列表
+卷序列号为 7AE6-4399
+D:.
+│  agent_tool.py
+│  AutoBnc.py
+│  autobnc_type.py
+│  intent.py
+│  list.txt
+│  setup_agents.py
+│  tool_build.py
+│  __init__.py
+│  
+├─agents
+│  │  clarifier_agent.py
+│  │  manager.py
+│  │  scientist_agent.py
+│  │  strategy_agent.py
+│  │  trader_agent.py
+│  │  transfer_agent.py
+│  │  user_proxy.py
+│  │  
+│  └─__pycache__
+│          clarifier_agent.cpython-39.pyc
+│          manager.cpython-39.pyc
+│          scientist_agent.cpython-39.pyc
+│          trader_agent.cpython-39.pyc
+│          transfer_agent.cpython-39.pyc
+│          user_proxy.cpython-39.pyc
+│          
+├─util
+│  │  agent_type.py
+│  │  binanceSystem.py
+│  │  color.py
+│  │  constants.py
+│  │  __init__.py
+│  │  
+│  └─__pycache__
+│          agent_type.cpython-39.pyc
+│          binanceSystem.cpython-39.pyc
+│          color.cpython-39.pyc
+│          constants.cpython-39.pyc
+│          __init__.cpython-39.pyc
+│          
+└─__pycache__
+        agent_tool.cpython-39.pyc
+        AutoBnc.cpython-39.pyc
+        autobnc_type.cpython-39.pyc
+        intent.cpython-39.pyc
+        setup_agents.cpython-39.pyc
+        tool_build.cpython-39.pyc
+        __init__.cpython-39.pyc
+        

@@ -1,0 +1,13 @@
+[
+    {
+        "model": "gpt-4",
+        "api_key": "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",
+        "tags": ["gpt-4", "tool"]
+    },
+
+    {
+        "model": "gpt-3.5-turbo",
+        "api_key": "sk-proj-xxFUgwKY0C5dHD6YnlRMT3BlbkFJErjRDMI8H6SeySTyuw1d",
+        "tags": ["gpt-3.5-turbo", "tool"]
+    }
+]
