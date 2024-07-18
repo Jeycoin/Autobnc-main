@@ -85,7 +85,7 @@ python pktest.py
         __init__.py
 ```
 ## 文档
-具体的项目文档可以参考：[文档](https://123)
+具体的项目文档可以参考：[文档](https://github.com/Jeycoin/Autobnc-main/blob/master/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3_20240718114640.pdf)
 
 ## 贡献
 随时欢迎大家的贡献!
