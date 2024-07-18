@@ -3,6 +3,7 @@
 # AutoBnc-main
 
 Autobnc-main 是一个 AI agent 项目，它可以帮助用户通过对话实现对虚拟货币市场的分析、虚拟货币的转账、购买、出售等功能，同时也可以介绍虚拟货币的相关知识。
+![image](https://github.com/Jeycoin/Autobnc-main/blob/master/%E5%9B%BE.png)
 
 
 
